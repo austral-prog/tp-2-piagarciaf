@@ -7,6 +7,6 @@ def change():
 	print (f"Ingresar gasto:\n{gasto}")
 	print (f"Dinero recibido\n{pesos}")
 	print ("\n\nVuelto")
-	print(f"\n\nPesos:\n{vuelto}")
+	print(f"\n\nPesos:\n{vueltosin}")
 	print(f"Centavos:\n{centavos}")
 change()
